@@ -1,0 +1,10 @@
+<!doctype html>
+<head>
+</head>
+
+ <body onload="startGame()"> 
+
+<script src= "simpel.js" type="text/javascript"></script>
+
+  </body>
+</html>
